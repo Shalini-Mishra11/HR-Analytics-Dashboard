@@ -4,7 +4,7 @@
 
 This project analyzes online retail transaction data to understand sales performance, customer behavior, product trends, and business growth opportunities.
 
-The objective is to clean the retail dataset, perform analysis using Excel, SQL, Python, and create an interactive Power BI dashboard to generate business insights.
+The objective is to clean the retail dataset, perform analysis using Excel, SQL and create an interactive Power BI dashboard to generate business insights.
 
 ---
 
@@ -12,7 +12,6 @@ The objective is to clean the retail dataset, perform analysis using Excel, SQL,
 
 - Excel (Data Cleaning, Pivot Tables, Analysis)
 - SQL (Data Analysis Queries)
-- Python (Data Exploration and Visualization)
 - Power BI (Interactive Dashboard)
 
 ---
