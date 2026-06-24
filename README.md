@@ -1,4 +1,4 @@
-# Online Retail Sales Analysis
+# Online Retail Sales Analysis Dashboard
 
 ## Project Overview
 
